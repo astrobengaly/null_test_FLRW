@@ -13,3 +13,5 @@ The outputs consist on three plots, as follow:
 - The reconstructed comoving distance curve DC(z) obtained from integrating the reconstructed H(z) curve from GaPP using a trapezoid sum rule
 - The reconstructed angular diameter distance DA(z) from the transverse BAO mode measurements
 - The null FLRW test zeta(z) result. 
+
+Please contact carlosbengaly@on.br or carlosap87@gmail.com for further enquiries. Suggestions are always welcome.
